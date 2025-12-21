@@ -1,6 +1,6 @@
 # 💼 Prachi Shende's Resume
 
-Welcome to my professional portfolio! This repository contains a copy of my resume and highlights of my skills, projects, and certifications in the field of **Artificial Intelligence**, **Full Stack Development**, and **Computer Vision**.
+Welcome to my professional portfolio! This repository contains a copy of my resume and highlights of my skills, projects, and certifications in the field of **Artificial Intelligence**, **Machine Learning**, and **Computer Vision**.
 
 ---
 
@@ -17,27 +17,35 @@ I am an enthusiastic and detail-oriented **B.Tech. Artificial Intelligence** stu
 
 ## 🛠️ Skills
 
-- **Languages:** Python, C++, C, JavaScript, HTML/CSS, SQL  
-- **Frameworks & Libraries:** Node.js, Express.js, React.js, MediaPipe  
-- **Tools & Technologies:** Git, GitHub, Linux, VS Code  
+- **Languages:**  Python, C++, C, HTML/CSS, SQL  
+- **Frameworks & Libraries:** OpenCV, MediaPipe, Pandas, Scikit Learn, PyTorch, Tensorflow, Hugging Face  
+- **Tools & Technologies:** GitHub, Git, ChatGPT, Docker, Google Colab, Linux, VS Code, Microsoft PowerBI  
 - **Soft Skills:** Communication, Decision-Making, Multi-tasking, Team Collaboration  
-- **CS Concepts:** Machine Learning, Data Structures & Algorithms, Operating Systems, Computer Networks
+- **CS Concepts:** Neural Networks, Large Language Models (LLMs), Natural Language Processing, Transformers, Data
+Structures and Algorithms, Operating System, Probability & Statistics, Particle Swarm Optimization, Grey
+Wolf Optimization, Ant Colony Optimization
+
 
 ---
 
 ## 🧑‍💻 Projects
 
-### 1. 🔗 Stray Connect *(Dec 2024)*  
-> Tech Stack: Node.js, Express.js, MongoDB  
-- Created a responsive platform for reporting stray animal incidents  
-- Implemented intelligent search, RESTful APIs, and advanced filtering features  
-- Enabled NGOs to access, sort, and manage rescue data effectively  
+### 1. AI Shredder & Redaction Tool *(Sept 2025)*  
+> Tech Stack:  Python, BERT, PyTorch, Tesseract OCR 
+- Built AI Shredder & Redaction Tool using Python, BERT (Hugging Face), PyTorch, Tesseract, and
+OpenCV.
+- Detected and redacted sensitive data in documents/images with OCR and NLP entity recognition.
+- Delivered a secure, efficient solution for privacy compliance and confidential document management.
 
-### 2. 💪 Upper Body Exercise Tracking System *(Feb 2025)*  
-> Tech Stack: Python, MediaPipe  
-- Real-time posture tracking for bicep curls, lateral raises, and shoulder presses  
-- Calculated joint angles and provided corrective feedback  
-- Leveraged lightweight computer vision models for real-time feedback
+### 2. Sahaay - Your Voice for A Better City *(Nov 2025)*  
+> Tech Stack: Python, YOLOv8, OpenCV, FastAPI
+-Built an AI-driven computer vision system to crowdsourced civic issue reporting and system from
+user-uploaded video using YOLOv8 object detection.
+- Applied OpenCV-based preprocessing and bounding box analysis to improve detection reliability
+and reduce false positives.
+- Developed a model-backed REST API pipeline for automated inference, data storage, and
+downstream analytics to support decision-making.
+
 
 ---
 
@@ -45,7 +53,7 @@ I am an enthusiastic and detail-oriented **B.Tech. Artificial Intelligence** stu
 
 - **B.Tech – Artificial Intelligence**  
   Vishwakarma Institute of Information Technology (2023–2027)  
-  *CGPA: 8.26*
+  *CGPA: 8.51*
 
 - **Higher Secondary Certificate (HSC)** – 87.50% (Rank 3)  
   S F L Jr. College, Dhamgaon Rly
@@ -74,7 +82,7 @@ I am an enthusiastic and detail-oriented **B.Tech. Artificial Intelligence** stu
 
 ## 📄 View Resume
 
-> 📌 [Click here to view/download my resume (PDF)](./Prachi_Shende_VIIT_Resume.pdf)
+> 📌 [Click here to view/download my resume (PDF)](./Prachi_Shende_VIIT_Resume_E.pdf)
 
 ---
 
